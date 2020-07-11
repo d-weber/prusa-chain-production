@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name lib)(type KiCad)(uri ${KIPRJMOD}/lib.pretty)(options "")(descr ""))
+  (lib (name ejector)(type KiCad)(uri ${KIPRJMOD}/lib/ejector.pretty)(options "")(descr ""))
+)
