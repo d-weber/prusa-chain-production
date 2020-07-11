@@ -2,16 +2,15 @@
 ![assembly iso render](img/assembly-iso-render.png "[assembly iso render")
 Add chain production capability to your Prusa i3
 
-# Ejector PCB
-![assembly iso render](img/pcb-render.png "[assembly iso render")
-Can be order through jlcpcb or any similar service
-
 # How it works
 - The arduino control steppers & fans
 - The printer is controlled via octopi
 - A [script](octoprint-plugin/main.py) on the octopi monitor the octoprint status and control the arduino via usb-serial, to start cooling / ejecting
 
-# Bill of materials
+# Demo video
+[![YT](https://img.youtube.com/vi/xZeJeUdq0wY/0.jpg)](https://www.youtube.com/watch?v=xZeJeUdq0wY)
+
+# Assembly Bill of materials
 Most of the parts can be order on Aliexpress at small cost, for a total of approx 100$
 Description | Count | Link
 ------------ | ------------- | -------------
@@ -34,4 +33,13 @@ M4 2020 Nut | 50 | [AliExpress](https://fr.aliexpress.com/item/33043957747.html?
 M4 3030 Nut | 4 | [AliExpress](https://fr.aliexpress.com/item/33043957747.html?spm=a2g0o.productlist.0.0.5dcc1b4fbfBnxe&algo_pvid=b122bcb7-951b-4d63-a89d-b83275a0bcb4&algo_expid=b122bcb7-951b-4d63-a89d-b83275a0bcb4-3&btsid=0b0a050115944748888203415e9042&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 
 
+# Ejector PCB
+![assembly iso render](img/pcb-render.png "[assembly iso render")
+Can be order through jlcpcb or any similar service
 
+
+# Electronics Bill of materials
+Description | Count | Link
+------------ | ------------- | -------------
+TMC2130 SPI StepStick | 2 | [AliExpress](https://fr.aliexpress.com/item/32970150483.html?spm=a2g0o.productlist.0.0.72ea1eb7ryF9Z0&algo_pvid=f6794725-60ea-4f19-8894-552e24a461bd&algo_expid=f6794725-60ea-4f19-8894-552e24a461bd-1&btsid=0b0a050115944751235671454e9042&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
+Arduino pro micro clone | 2 | [AliExpress](https://fr.aliexpress.com/item/32902569443.html?spm=a2g0o.productlist.0.0.54762563pNu99P&algo_pvid=0173235d-81de-44fa-8d78-6d86316b9cff&algo_expid=0173235d-81de-44fa-8d78-6d86316b9cff-0&btsid=0b0a050115944751023318586e9042&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
