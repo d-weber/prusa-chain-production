@@ -3,15 +3,16 @@
 Add chain production capability to your Prusa i3
 
 # How it works
-- The arduino control steppers & fans
+- The arduino controls the steppers & fans
 - The printer is controlled via octopi
-- A [script](octoprint-plugin/main.py) on the octopi monitor the octoprint status and control the arduino via usb-serial, to start cooling / ejecting
+- A [script](octoprint-plugin/main.py) on the octopi monitors the octoprint status and controls the arduino via usb-serial to start cooling and trigger the ejection
 
 # Demo video
 [![YT](https://img.youtube.com/vi/xZeJeUdq0wY/0.jpg)](https://www.youtube.com/watch?v=xZeJeUdq0wY)
 
 # Assembly Bill of materials
-Most of the parts can be order on Aliexpress at small cost, for a total of approx 100$
+Most of the parts can be ordered on Aliexpress at a small cost, for a total of approx $100
+
 Description | Count | Link
 ------------ | ------------- | -------------
 Nema 17 stepper | 2 | [AliExpress](https://fr.aliexpress.com/item/32572890101.html?spm=a2g0o.productlist.0.0.564c27b3pHR0G2&algo_pvid=abd5054d-e8d8-4ced-8ff2-9446c7aa35a8&algo_expid=abd5054d-e8d8-4ced-8ff2-9446c7aa35a8-3&btsid=0b0a050115944744286904328e9042&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
@@ -36,7 +37,7 @@ M4 3030 Nut | 4 | [AliExpress](https://fr.aliexpress.com/item/33043957747.html?s
 
 # Ejector PCB
 ![assembly iso render](img/pcb-render.png "[assembly iso render")
-Can be order through jlcpcb or any similar service
+Can be ordered through jlcpcb or any similar service
 
 
 # Electronics Bill of materials
