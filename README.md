@@ -42,6 +42,6 @@ Can be ordered through jlcpcb or any similar service
 
 # Electronics Bill of materials
 Description | Count | Français | English
------------- | ------------- | -------------
+------------ | ------------- | ------------- | -------------
 TMC2130 SPI StepStick | 2 | [AliExpress](https://fr.aliexpress.com/item/32970150483.html?spm=a2g0o.productlist.0.0.72ea1eb7ryF9Z0&algo_pvid=f6794725-60ea-4f19-8894-552e24a461bd&algo_expid=f6794725-60ea-4f19-8894-552e24a461bd-1&btsid=0b0a050115944751235671454e9042&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) | [AliExpress](https://www.aliexpress.com/item/32970150483.html?spm=a2g0o.productlist.0.0.72ea1eb7ryF9Z0&algo_pvid=f6794725-60ea-4f19-8894-552e24a461bd&algo_expid=f6794725-60ea-4f19-8894-552e24a461bd-1&btsid=0b0a050115944751235671454e9042&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 Arduino pro micro clone | 2 | [AliExpress](https://fr.aliexpress.com/item/32902569443.html?spm=a2g0o.productlist.0.0.54762563pNu99P&algo_pvid=0173235d-81de-44fa-8d78-6d86316b9cff&algo_expid=0173235d-81de-44fa-8d78-6d86316b9cff-0&btsid=0b0a050115944751023318586e9042&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) | [AliExpress](https://www.aliexpress.com/item/32902569443.html?spm=a2g0o.productlist.0.0.54762563pNu99P&algo_pvid=0173235d-81de-44fa-8d78-6d86316b9cff&algo_expid=0173235d-81de-44fa-8d78-6d86316b9cff-0&btsid=0b0a050115944751023318586e9042&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
